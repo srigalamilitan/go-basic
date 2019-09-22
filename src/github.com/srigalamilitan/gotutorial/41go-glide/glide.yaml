@@ -1,0 +1,3 @@
+package: github.com/srigalamilitan/gotutorial/41go-glide
+import:
+- package: github.com/wuriyanto48/floop
